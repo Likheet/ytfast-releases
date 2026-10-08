@@ -7,6 +7,6 @@ Get the latest version from **[ytmfast.com/download](https://ytmfast.com/downloa
 - **Windows** (64-bit, Intel or AMD): `YTFast-for-Windows.zip`
 - **Mac** (Apple Silicon, M1 or newer): `YTFast-for-Mac.zip`
 
-YTFast is free for 14 days, then $4 once. See [pricing](https://ytmfast.com/pricing). This repository holds release files only.
+YTFast is free for 14 days, then US$4 once. See [pricing](https://ytmfast.com/pricing). This repository holds release files only.
 
 YTFast is an independent project, not affiliated with or endorsed by Google LLC or YouTube.
